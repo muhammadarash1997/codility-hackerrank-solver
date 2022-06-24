@@ -1,0 +1,66 @@
+	abc
+split
+2	ab bc
+
+
+
+
+	abcd
+split
+2	ab bc cd
+3	abc bcd
+
+
+
+
+	abcde
+split
+2	ab bc cd de
+3	abc bcd cde
+4	abcd bcde
+5	abcde
+
+
+
+
+	mnonopoo
+split
+2	mn no on no op po oo
+3	mno non ono nop opo poo
+4	mnon nono onop nopo opoo
+5	mnono nonop onopo nopoo
+6	mnonop nonopo onopoo
+7	mnonopo nonopoo
+
+
+
+
+	asasd
+split
+2	as sa as sd
+3	asa sas asd
+4	asas sasd
+
+	
+	
+	
+	abcbaba
+split
+2	ab bc cb ba ab ba
+3	abc bcb cba bab aba
+4	abcb bcba cbab baba
+5	abcba bcbab cbaba
+6	abcbab bcbaba
+
+
+
+	aaaa
+	aa aa aa aaa aaa
+split
+2	aa aa aa
+3	aaa aaa
+
+
+
+RUMUS MENCARI SPLIT
+2 to len(s)-1

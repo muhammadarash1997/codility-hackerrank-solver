@@ -3,8 +3,6 @@ package main
 import "fmt"
 
 func main() {
-	// A := []int{10, 2, 5, 1, 8, 20}
-	// A := []int{10, 50, 5, 1}
 	A := []int{
 		10, 2, 5,
 		10, 8, 5,
